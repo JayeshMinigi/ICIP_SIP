@@ -7,4 +7,4 @@
 - A quiz is much shorter than a traditional test or exam and is rarely impactful on a final course grade.
 
 
-![preview img](/ICIP_SIP/Quiz_App/preview.png)
+![preview img](/Quiz_App/preview.png)
