@@ -155,22 +155,22 @@ img {
 }
 
 .home__parallax-img1 {
-  background-image: url("/Parallax_Scroling/assets/img/imgm1.png");
+  background-image: url("/ICIP_SIP/Parallax_Scroling/assets/img/imgm1.png");
   z-index: var(--z-normal);
 }
 
 .home__parallax-img2 {
-  background-image: url("/Parallax_Scroling/assets/img/imgm2.png");
+  background-image: url("/ICIP_SIP/Parallax_Scroling/assets/img/imgm2.png");
   z-index: var(--z-tooltip);
 }
 
 .home__parallax-img3 {
-  background-image: url("/Parallax_Scroling/assets/img/imgm3.png");
+  background-image: url("/ICIP_SIP/Parallax_Scroling/assets/img/imgm3.png");
   z-index: var(--z-fixed);
 }
 
 .home__parallax-img4 {
-  background-image: url("/Parallax_Scroling/assets/img/imgm4.png");
+  background-image: url("/ICIP_SIP/Parallax_Scroling/assets/img/imgm4.png");
   z-index: var(--z-fixed);
 }
 
