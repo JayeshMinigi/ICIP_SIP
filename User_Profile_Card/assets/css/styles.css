@@ -175,6 +175,32 @@ img {
   margin-bottom: 2rem;
 }
 
+.card__age1{
+  font-size: var(--h2-font-size);
+  color: var(--title-color);
+  font-weight: 600;
+  margin-bottom: .25rem;
+}
+
+.card__age{
+  font-size: var(--normal-font-size);
+  font-weight: 500;
+  margin-bottom: 2rem;
+}
+
+.card__characteristics {
+  font-size: var(--normal-font-size);
+  font-weight: 500;
+  margin-bottom: 2rem;
+}
+
+.card__characteristics1 {
+  font-size: var(--h2-font-size);
+  color: var(--title-color);
+  font-weight: 600;
+  margin-bottom: .25rem;
+}
+
 .card__button {
   display: inline-flex;
   align-items: center;
